@@ -1,4 +1,4 @@
-**Stock Movement Price Prediction with Behavioral Features - Thesis (No Code)**
+## **Stock Movement Price Prediction with Behavioral Features - Thesis (No Code)**
 
 This repository contains the PDF version of my research thesis titled "Stock Movement Price Prediction with Behavioral Features".
 
